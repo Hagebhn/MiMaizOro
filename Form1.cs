@@ -23,6 +23,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //Display.Text = "0";
             Display.Text = "0";
         }
 
